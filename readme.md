@@ -14,6 +14,8 @@
 - [How to add a meter in my character in Fraymakers](https://steamcommunity.com/sharedfiles/filedetails/?id=3334662751)
 - [FrayTools Content Compatibility Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3323129659)
 - [Fraytools - How Do I...? Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3032341856)
+### Haxe
+- [Haxe Manual](https://haxe.org/manual/introduction.html)
 ### Plugin Development
 - [Awesome's Plugin Docs](https://github.com/awesoee/The-Plugin-Docs)
 ## Plugins
