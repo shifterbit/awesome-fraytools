@@ -36,14 +36,14 @@
 - [Palette Importer](https://psndth.github.io/PaletteImporter/) - Quick tool for turning a set of images (with the palette already applied) into a fraytools palette file.
 
 ## Templates
-- [Character Template](https://github.com/Fraymakers/character-template)
-- [Assist Template](https://github.com/Fraymakers/assist-template)
-- [Stage Template](https://github.com/Fraymakers/stage-template)
-- [Music Template](https://github.com/Fraymakers/music-template)
+- [Character Template](https://github.com/Fraymakers/character-template) - FrayTools Template demonstrating how to create a character.
+- [Assist Template](https://github.com/Fraymakers/assist-template) - FrayTools Template demonstrating how to create a character.
+- [Stage Template](https://github.com/Fraymakers/stage-template) - FrayTools Template which demonstrates how to create a stage.
+- [Music Template](https://github.com/Fraymakers/music-template) - FrayTools Template which demonstrates how to create basic background music assets.
 
 ### Plugin Development
-- [FrayTools Metadata Defintion Plugin Example](https://github.com/awesoee/ts-metadata-plugin-example/)
-- [FrayTools Script Asset Plugin Example ](https://github.com/awesoee/ts-script-plugin-example/)
-- [FrayTools Publish Plugin Example](https://github.com/awesoee/ts-publish-plugin-example/)
+- [FrayTools Metadata Defintion Plugin Example](https://github.com/awesoee/ts-metadata-plugin-example/) - Demonstrates a working FrayTools metadata definitions plugin.
+- [FrayTools Script Asset Plugin Example ](https://github.com/awesoee/ts-script-plugin-example/) - Demonstrates a working FrayTools script asset plugin.
+- [FrayTools Publish Plugin Example](https://github.com/awesoee/ts-publish-plugin-example/) - Demonstrates a working FrayTools publish plugin, which exports a simple text file.
 
 
