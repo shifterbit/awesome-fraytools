@@ -1,6 +1,6 @@
 # Awesome FrayTools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of Fraymakers related stuff
+> A curated list of FrayTools related stuff
 
 ## Modding Tools
 - [FrayTools](https://fraytools.com/) - The Official Modding tool for Fraymakers.
