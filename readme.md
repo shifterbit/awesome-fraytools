@@ -9,8 +9,11 @@
 - [FrayTools](https://fraytools.com/)
   - [FrayTools Flatpak](https://gitlab.com/shifterbit/fraytools-flatpak)
   - [FrayToos2](https://github.com/Zardy45321/Fraytools2)
-## Documentation
-- [Assist Template](http://example.com)
+## Documentation/Resources
+- [Official API Documentation](https://github.com/Fraymakers/fraymakers-api-docs)
+- [How to add a meter in my character in Fraymakers](https://steamcommunity.com/sharedfiles/filedetails/?id=3334662751)
+- [FrayTools Content Compatibility Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3323129659)
+- [Fraytools - How Do I...? Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3032341856)
 ## Plugins
 - [API Types Completion](https://github.com/Fraymakers/api-types-plugin)
 - [Content Exporter Plugin](https://github.com/Fraymakers/content-exporter-plugin)
