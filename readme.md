@@ -34,6 +34,7 @@
 - [Animation Importer](https://github.com/Zardy45321/fraytools-anim-importer) - Allows you to import animations into FrayTools, including animations from MUGEN projects.
 - [Sprite Optimizer](https://psndth.github.io/SpriteOptimizer/) - Tool for cropping out the empty space on images so fraytools export is faster. 
 - [Palette Importer](https://psndth.github.io/PaletteImporter/) - Quick tool for turning a set of images (with the palette already applied) into a fraytools palette file.
+- [Palette Editor](https://psndth.github.io/PaletteEditor/) - Tool for editing Palettes on the web.
 
 ## Templates
 - [Character Template](https://github.com/Fraymakers/character-template) - FrayTools Template demonstrating how to create a character.
