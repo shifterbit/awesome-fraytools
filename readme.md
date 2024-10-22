@@ -8,6 +8,7 @@
 ## Modding Tools
 - [FrayTools](https://fraytools.com/)
   - [FrayTools Flatpak](https://gitlab.com/shifterbit/fraytools-flatpak)
+  - [FrayToos2](https://github.com/Zardy45321/Fraytools2)
 ## Documentation
 - [Assist Template](http://example.com)
 ## Plugins
