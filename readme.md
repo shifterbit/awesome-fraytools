@@ -14,6 +14,8 @@
 - [How to add a meter in my character in Fraymakers](https://steamcommunity.com/sharedfiles/filedetails/?id=3334662751)
 - [FrayTools Content Compatibility Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3323129659)
 - [Fraytools - How Do I...? Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3032341856)
+### Plugin Development
+-[Awesome's Plugin Docs](https://github.com/awesoee/The-Plugin-Docs)
 ## Plugins
 - [API Types Completion](https://github.com/Fraymakers/api-types-plugin)
 - [Content Exporter Plugin](https://github.com/Fraymakers/content-exporter-plugin)
@@ -33,5 +35,9 @@
 - [Assist Template](https://github.com/Fraymakers/assist-template)
 - [Stage Template](https://github.com/Fraymakers/stage-template)
 - [Music Template](https://github.com/Fraymakers/music-template)
+### Plugin Development
+- [FrayTools Metadata Defintion Plugin Example](https://github.com/awesoee/ts-metadata-plugin-example/)
+- [FrayTools Script Asset Plugin Example ](https://github.com/awesoee/ts-script-plugin-example/)
+- [FrayTools Publish Plugin Example](https://github.com/awesoee/ts-publish-plugin-example/)
 
 
