@@ -2,13 +2,10 @@
 
 > A curated list of Fraymakers related stuff
 
-
-
-
 ## Modding Tools
-- [FrayTools](https://fraytools.com/) - The Main modding tool for fraymakers
-  - [FrayTools Flatpak](https://gitlab.com/shifterbit/fraytools-flatpak) - Flatpak Package for fraytools
-  - [FrayToos2](https://github.com/Zardy45321/Fraytools2) - A great extension suite for fraymakers
+- [FrayTools](https://fraytools.com/) - The Official Modding tool for Fraymakers.
+  - [FrayTools Flatpak](https://gitlab.com/shifterbit/fraytools-flatpak) - Flatpak Package for FrayTools.
+  - [FrayToos2](https://github.com/Zardy45321/Fraytools2) - A great extension suite for Fraymakers
 ## Documentation/Resources
 - [Official API Documentation](https://github.com/Fraymakers/fraymakers-api-docs) - The Official API Documentation by Team Fray.
 - [How to add a meter in my character in Fraymakers](https://steamcommunity.com/sharedfiles/filedetails/?id=3334662751) - A Small, Self contained tutorial on how to add meters to your character.
