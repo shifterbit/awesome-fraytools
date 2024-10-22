@@ -11,6 +11,8 @@
 - [How to add a meter in my character in Fraymakers](https://steamcommunity.com/sharedfiles/filedetails/?id=3334662751) - A Small, Self contained tutorial on how to add meters to your character.
 - [FrayTools Content Compatibility Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3323129659) - A Guide for making sure your content is compatible with some other custom content.
 - [Fraytools - How Do I...? Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3032341856) - A Massive set of how to tutorials for making custom content.
+- [Fraymakers Custom Content Deep Dive](https://docs.google.com/document/d/1o6CE04FRaqQyksD2uX7zxOQXYiZ_M2YCwtqK0mMoARY/) - General, yet details Documentation on Custom Content Creation.
+- [How to Make Custom Characters - Beginner's Guide to Fraytools ](https://www.youtube.com/watch?v=eRs6qeL4WZI) - A Video Guide by Bowler on how to create Characters using FrayTools.
 ### Haxe
 - [Haxe Manual](https://haxe.org/manual/introduction.html) - Reference Manual for Haxe.
 ### Plugin Development
