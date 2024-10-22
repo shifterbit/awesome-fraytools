@@ -15,7 +15,7 @@
 - [FrayTools Content Compatibility Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3323129659)
 - [Fraytools - How Do I...? Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3032341856)
 ### Plugin Development
--[Awesome's Plugin Docs](https://github.com/awesoee/The-Plugin-Docs)
+- [Awesome's Plugin Docs](https://github.com/awesoee/The-Plugin-Docs)
 ## Plugins
 - [API Types Completion](https://github.com/Fraymakers/api-types-plugin)
 - [Content Exporter Plugin](https://github.com/Fraymakers/content-exporter-plugin)
