@@ -6,30 +6,30 @@
 
 
 ## Modding Tools
-- [FrayTools](https://fraytools.com/)
-  - [FrayTools Flatpak](https://gitlab.com/shifterbit/fraytools-flatpak)
-  - [FrayToos2](https://github.com/Zardy45321/Fraytools2)
+- [FrayTools](https://fraytools.com/) - The Main modding tool for fraymakers
+  - [FrayTools Flatpak](https://gitlab.com/shifterbit/fraytools-flatpak) - Flatpak Package for fraytools
+  - [FrayToos2](https://github.com/Zardy45321/Fraytools2) - A great extension suite for fraymakers
 ## Documentation/Resources
-- [Official API Documentation](https://github.com/Fraymakers/fraymakers-api-docs)
-- [How to add a meter in my character in Fraymakers](https://steamcommunity.com/sharedfiles/filedetails/?id=3334662751)
-- [FrayTools Content Compatibility Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3323129659)
-- [Fraytools - How Do I...? Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3032341856)
+- [Official API Documentation](https://github.com/Fraymakers/fraymakers-api-docs) - The Official API Documentation by Team Fray.
+- [How to add a meter in my character in Fraymakers](https://steamcommunity.com/sharedfiles/filedetails/?id=3334662751) - A Small, Self contained tutorial on how to add meters to your character.
+- [FrayTools Content Compatibility Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3323129659) - A Guide for making sure your content is compatible with some other custom content.
+- [Fraytools - How Do I...? Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3032341856) - A Massive set of how to tutorials for making custom content.
 ### Haxe
-- [Haxe Manual](https://haxe.org/manual/introduction.html)
+- [Haxe Manual](https://haxe.org/manual/introduction.html) - Reference Manual for Haxe.
 ### Plugin Development
-- [Awesome's Plugin Docs](https://github.com/awesoee/The-Plugin-Docs)
+- [Awesome's Plugin Docs](https://github.com/awesoee/The-Plugin-Docs) - Unofficial Documentation for developing plugins for FrayTools.
 ## Plugins
-- [API Types Completion](https://github.com/Fraymakers/api-types-plugin)
-- [Content Exporter Plugin](https://github.com/Fraymakers/content-exporter-plugin)
-- [Metadata Plugin](https://github.com/Fraymakers/metadata-plugin)
-- [Quick Projectile Creator](https://github.com/awesoee/Fraytools-Quick-Projectile-Creator-v0.1.1-hotfix)
-- [Symbol Aligner Plugin](https://github.com/awesoee/FrayTools-Symbol-Aligner-v0.1.0)
+- [API Types Completion](https://github.com/Fraymakers/api-types-plugin) - Official FrayTools plugin, providing code completion.
+- [Content Exporter Plugin](https://github.com/Fraymakers/content-exporter-plugin) - Official Fraytools plugin, allowing you to export content into fraymakers.
+- [Metadata Plugin](https://github.com/Fraymakers/metadata-plugin) - Official FrayTools plugin, adds required metadata.
+- [Quick Projectile Creator](https://github.com/awesoee/Fraytools-Quick-Projectile-Creator-v0.1.1-hotfix) - FrayTools plugin that significantly speeds up the process of making projectles.
+- [Symbol Aligner Plugin](https://github.com/awesoee/FrayTools-Symbol-Aligner-v0.1.0) - Allows you to automatically align image symbols in your FrayTools Projects.
 ## Additional Scripts/Tools
-- [Color Conflict Resolver](https://github.com/Zardy45321/fraytools-color-conflict-resolver)
-- [Project Cleanup](https://github.com/Zardy45321/fraytools-project-cleanup)
-- [Animation Importer](https://github.com/Zardy45321/fraytools-anim-importer)
-- [Sprite Optimizer](https://psndth.github.io/SpriteOptimizer/)
-- [Palette Importer](https://psndth.github.io/PaletteImporter/)
+- [Color Conflict Resolver](https://github.com/Zardy45321/fraytools-color-conflict-resolver) - Resolves color conflicts present within fraytools.
+- [Project Cleanup](https://github.com/Zardy45321/fraytools-project-cleanup) - Automatically cleans up unused assets from your FrayTools Projects.
+- [Animation Importer](https://github.com/Zardy45321/fraytools-anim-importer) - Allows you to import animations into FrayTools, including animations from MUGEN projects.
+- [Sprite Optimizer](https://psndth.github.io/SpriteOptimizer/) - Tool for cropping out the empty space on images so fraytools export is faster. 
+- [Palette Importer](https://psndth.github.io/PaletteImporter/) - Quick tool for turning a set of images (with the palette already applied) into a fraytools palette file.
 
 
 ## Templates
