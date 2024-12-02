@@ -5,14 +5,14 @@
 ## Modding Tools
 - [FrayTools](https://fraytools.com/) - The Official Modding tool for Fraymakers.
   - [FrayTools Flatpak](https://gitlab.com/shifterbit/fraytools-flatpak) - Flatpak Package for FrayTools.
-  - [FrayToos2](https://github.com/Zardy45321/Fraytools2) - A great extension suite for Fraymakers.
+  - [FrayTools2](https://github.com/Zardy45321/Fraytools2) - A great extension suite for Fraymakers.
   
 ## Documentation/Resources
 - [Official API Documentation](https://github.com/Fraymakers/fraymakers-api-docs) - The Official API Documentation by Team Fray.
 - [How to add a meter in my character in Fraymakers](https://steamcommunity.com/sharedfiles/filedetails/?id=3334662751) - A Small, Self contained tutorial on how to add meters to your character.
 - [FrayTools Content Compatibility Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3323129659) - A Guide for making sure your content is compatible with some other custom content.
 - [Fraytools - How Do I...? Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3032341856) - A Massive set of how to tutorials for making custom content.
-- [Fraymakers Custom Content Deep Dive](https://docs.google.com/document/d/1o6CE04FRaqQyksD2uX7zxOQXYiZ_M2YCwtqK0mMoARY/) - General, yet details Documentation on Custom Content Creation.
+- [Fraymakers Custom Content Deep Dive](https://docs.google.com/document/d/1o6CE04FRaqQyksD2uX7zxOQXYiZ_M2YCwtqK0mMoARY/) - General, yet detailed Documentation on Custom Content Creation.
 - [How to Make Custom Characters - Beginner's Guide to Fraytools ](https://www.youtube.com/watch?v=eRs6qeL4WZI) - A Video Guide by Bowler on how to create Characters using FrayTools.
 - [Fraymakers Simple Stage Tips](https://docs.google.com/presentation/d/e/2PACX-1vT4fzHrONPnt43o28o7XLDKgZj-CpQt4jpxRXg15GV0xtCvaAHFIceROBGX9CNBHkcffr2J_id9VWeG/pub?start=false&loop=false&delayms=3000#slide=id.p) - A Google Slide to help you get started with creating stages.
 
