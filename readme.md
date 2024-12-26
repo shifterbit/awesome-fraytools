@@ -42,7 +42,7 @@
 - [Assist Template](https://github.com/Fraymakers/assist-template) - FrayTools Template demonstrating how to create a character.
 - [Stage Template](https://github.com/Fraymakers/stage-template) - FrayTools Template which demonstrates how to create a stage.
 - [Music Template](https://github.com/Fraymakers/music-template) - FrayTools Template which demonstrates how to create basic background music assets.
-- [MUGEN in Fraymakers Template](https://github.com/awesoee/MUGEN-In-Fraymakers-Template) - Fraytools Stage template which puts fray characters in a more traditional fighting game environment
+- [MUGEN in Fraymakers Template](https://github.com/awesoee/MUGEN-In-Fraymakers-Template) - Fraytools Stage template which simulates the more traditional fighting game environment of mugen, complete with ui overhauls
 
 ### Plugin Development
 - [FrayTools Metadata Defintion Plugin Example](https://github.com/awesoee/ts-metadata-plugin-example/) - Demonstrates a working FrayTools metadata definitions plugin.
